@@ -1,0 +1,6 @@
+clarifai-grpc
+streamlit
+streamlit-chat
+streamlit-extras
+pillow==9.4.0
+altair==4.0
