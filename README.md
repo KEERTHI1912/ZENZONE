@@ -2,14 +2,15 @@
 
 The LLM-based virtual assistant is the heart of our AI-powered mental health platform. It is designed to provide personalized support to our users 24/7, with a focus on improving their mental health and overall well-being.
 
-Features:
+### Features:
+
 The virtual assistant comes with a range of features that are tailored to meet the needs of our users. These include:
 * Personalized support and guidance based on user input and preferences.
 * 24/7 availability to provide support whenever needed.
 * Integration with other features of the platform, such as personalized to-do lists and monitoring dashboards.
 * Privacy and confidentiality are maintained through strict data security protocols.
 
-Methodology:
+### Methodology:
 
 * This AI emulates human mental health professionals, engaging in empathic conversations, actively listening, and gaining insights into users' emotional states.
 * It assesses and diagnoses conditions like depression and anxiety through responses, tone of voice, and facial expressions, serving as an early warning system. 
@@ -17,7 +18,7 @@ Methodology:
 * Integration with health records and systems using Azure PostgreSQL database enables collaboration between AI and human providers, offering comprehensive care. 
 * The bot can be integrated as a feature to social media as an extension such as Telegram Bot to groups/channels or as a separate web application hosted on the internet.
 
-Social Beneficiaries of the project:
+### Social Beneficiaries of the project:
 
 * Mental Health is like a scourge that might corrupt an entire generation’s health and could hinder the development of a nation. A nation that has people who are mentally affected could not grow and attain their goals. 
 * It is therefore necessary to prioritize mental health awareness, support, and treatment as integral components of public health initiatives. 
@@ -30,10 +31,13 @@ Social Beneficiaries of the project:
 
 To run this application in your desktop:
 
-git clone [https://github.com/yatendra2001/ai_buddy.git](https://github.com/KEERTHI1912/ZENZONE.git)
-
+```bash
+git clone https://github.com/KEERTHI1912/ZENZONE.git
+```
+```bash
 pip install -r requirements.txt
-
+```
+```bash
 streamlit run 1_Chatbot.py
-
+```
 
